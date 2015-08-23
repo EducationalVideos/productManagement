@@ -4,30 +4,15 @@
 - Introduce product management in an Agile/Scrum context .
 - Introduce the plan of the course
 
-Let's have a list of questions that we are going to attempt to answer:
-- What is agile software development and how is it different to traditional or waterflow (do you mean waterfall model?) development?
-- Why did agile come about and what problem was it trying to solve?
-- When would you want to use agile software development?
-- What is the difference between a project manager and a product manager?
-- Where does agile development sit in the product development process?
-- What is the difference between agile and scrum?
-- What other agile methodologies are there?
-- Where does "scrum" get its name from?
-- What's a product owner and why is the role so important in scrum?
-- What's a user story and why is it integral to the agile process?
-- What are personas, journeys and wireframes and how do they relate to user stories?
-- What sorts of testing are needed in product development, when should it be done and why is it so important?
-- What's a sprint and why is it so important?
-
-*I agree that this section should be short, however I think that the script here should focus on a single problem or overarching question, and introduce different concepts of product management as comparative methods of answering this problem. For example:*
-
 Let's say that you have an idea for a product that you would like to realise, or bring to the market: How do you get from an idea to a finalised product?
+
 One key problem is that most products require a team of individuals working together to develop and produce the product itself. Product management is a way of standardising the way in which the team interacts while working on a given product. Without product management, teams can work very inefficiently, or problems with a product can be missed, which can be disasterous in the business world.
 
-*"Product management is a way of standardising the way in which the team interacts while working on a given product". For me, the way to define how the team is going to work is more linked to the project management concepts.
-We could also use a theoretical product to explore the different ideas, like so:*
+We're going to explain the concept of product management with reference to a theoretical team of ten people, led by Jane:
 
-We're going to explain the concept of product management with reference to a theoretical team of ten people, led by Jane. Jane's team work as software developers for InDev Inc., a fictional software consultancy. They don't run InDev, but they exist as a team of people that that InDev hires out to develop and produce software products for other companies. InDev has been contracted to produce a smartphone app for another company, SoftInc. Already we can see that there are quite a lot of relationships involved, product management isn't just about products - it's about people.
+**Graphic of the team and interactions between them**
+
+Jane's team work as software developers for InDev Inc., a fictional software consultancy. They don't run InDev, but they exist as a team of people that InDev hires out to develop and produce software products for other companies. InDev has been contracted to produce a smartphone app for another company, SoftInc. Already we can see that there are quite a lot of relationships involved, *product management isn't just about products - it's about people.*
 
 # Concepts and Terminology - 10 Minutes
 
